@@ -1,0 +1,49 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 02/06/2030, 06:35:12 PM
+    Author     : priorycode
+*/
+form{
+    border: 1px skyblue double;
+    border-radius: 20px;
+    width: 350px;
+    background-color: skyblue;
+}
+h2 {
+    font-family: sans-serif;
+}
+
+
+
+input[type=text]{
+    width: 330px;
+    height: 35px;
+    font-size: 15px;      
+    background-color: #EEFFAA;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 25px;
+    text-align: right;
+} 
+input[type=submit] {
+    background-color: #009879;
+    border: none;
+    color: black;
+    text-decoration: none;
+    margin: 4px 2px;
+    cursor: pointer;
+    width: 63px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 10px;
+}
+input[type=submit]:hover {
+    background-color: #EEFFAA;
+    color: black;
+    border-radius: 10px;
+}
